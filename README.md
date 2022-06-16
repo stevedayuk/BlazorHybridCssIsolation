@@ -1,5 +1,5 @@
 # Blazor Hybrid Css Isolation
-Repro of Blazor Hybrid CSS Isolation issue in .NET MAUI for .NET 6.0 when the assembly name of the project is changed
+Repro of Blazor Hybrid CSS Isolation issue in .NET MAUI for .NET 6.0 when deploying on Windows 10 abd the assembly name of the project has been changed.
 
 # CssIsolation.Working
 This project was added using File -> New Project -> .NET MAUI Blazor App and has not been modified. CSS isolation works in this project as expected.
